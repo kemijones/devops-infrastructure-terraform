@@ -18,3 +18,5 @@ secret.tfvars
 
 # Ignore lock files
 *.lock.hcl
+
+*.lock.hcl" >> .gitignore
