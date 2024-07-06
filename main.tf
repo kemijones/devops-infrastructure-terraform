@@ -101,3 +101,4 @@ module "ecr_repository" {
   repository_name = var.repository_name
   tags            = var.tags
 }
+
